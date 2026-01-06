@@ -10,7 +10,8 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harini-vk&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harini-vk)
+
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Harini-vk)
