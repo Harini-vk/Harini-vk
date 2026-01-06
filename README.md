@@ -1,10 +1,11 @@
 ## Hi 👋 I’m Harini
 
-🌱 I’m learning Web Development  
-💻 Working with HTML, CSS, JavaScript & Python  
-🚀 Building small projects and learning step by step  
-
-📌 I believe in learning by doing
+🌱 Exploring software development through real-world projects  
+💻 Worked across Electron.js, MERN stack, Firebase, and Java/Spring Boot  
+🤖 Built ML & CV projects using Python and OpenCV  
+📊 Experience with Big Data analysis using Apache Spark & Hadoop  
+🚀 Learning by building, experimenting, and improving step by step
+ 
 
 ---
 
