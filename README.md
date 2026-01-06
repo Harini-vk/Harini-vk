@@ -6,4 +6,8 @@
 
 📌 I believe in learning by doing
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harini-vk&show_icons=true)
+
