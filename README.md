@@ -7,10 +7,6 @@
 🚀 Learning by building, experimenting, and improving step by step
  
 
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harini-vk)
 
 
 
