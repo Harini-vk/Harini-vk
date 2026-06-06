@@ -1,27 +1,27 @@
-Hey, I am Harini
+#Hey, I am Harini
 
-Information Technology Student | Exploring Software Development, Backend Systems & AI/ML
+##Developer in the Making | Exploring Software, Backend & AI/ML | Continuous Learner
 
-About Me
+##About Me
 
-I am an Information Technology student passionate about building software solutions and exploring different areas of technology. I enjoy learning through projects and continuously improving my problem-solving and development skills.
+I am an Information Technology student passionate about exploring different areas of technology. I enjoy learning through projects and building practical solutions.
 
-• Actively building projects to strengthen technical skills
+• Actively building projects to improve technical skills
 
-• Interested in Full-Stack Development, Backend Development, and AI/ML
+• Interested in Software Development, Backend Systems, and AI/ML
 
 • Open to collaboration and open-source contributions
 
-Tech Stack
+---
+## Tech Stack
 
-Languages
-Java | Python | JavaScript | SQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-Tools & Platforms
-Git | GitHub | Firebase | VS Code | Docker
-
-Development
-React | Node.js | Spring Boot | REST APIs
-
-Data & AI
-Apache Spark | Hadoop | OpenCV | TensorFlow
+![React]
+![Node.js]
+![Express.js]
+![Flask]
+![Spring Boot]
