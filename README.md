@@ -1,15 +1,27 @@
-## Hi 👋 I’m Harini
+Hey, I am Harini
 
-🌱 Exploring software development through real-world projects  
-💻 Worked across Electron.js, MERN stack, Firebase, and Java/Spring Boot  
-🤖 Built ML & CV projects using Python and OpenCV  
-📊 Experience with Big Data analysis using Apache Spark & Hadoop  
-🚀 Learning by building, experimenting, and improving step by step
- 
+Information Technology Student | Exploring Software Development, Backend Systems & AI/ML
 
+About Me
 
+I am an Information Technology student passionate about building software solutions and exploring different areas of technology. I enjoy learning through projects and continuously improving my problem-solving and development skills.
 
+• Actively building projects to strengthen technical skills
 
+• Interested in Full-Stack Development, Backend Development, and AI/ML
 
+• Open to collaboration and open-source contributions
 
+Tech Stack
 
+Languages
+Java | Python | JavaScript | SQL
+
+Tools & Platforms
+Git | GitHub | Firebase | VS Code | Docker
+
+Development
+React | Node.js | Spring Boot | REST APIs
+
+Data & AI
+Apache Spark | Hadoop | OpenCV | TensorFlow
